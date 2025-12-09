@@ -1,1 +1,1 @@
-<img scr =\captura de tela.png >
+<img scr =captura de tela.png >
